@@ -1,2 +1,17 @@
-# MyPortfolio
-Personal Portfolio Website built | Showcasing my projects, skills, and experience as a Full Stack Developer.
+# Personal Portfolio Website
+
+This is my **personal portfolio website**.  
+It showcases my skills, projects, and experience as a **Full Stack Developer**.
+
+---
+
+##  Features
+- Responsive and modern UI
+- Dynamic projects section
+- (skills, projects, blog posts)
+- Clean code, scalable, and easy to maintain
+
+---
+
+##  Check it out : 
+- try it:
