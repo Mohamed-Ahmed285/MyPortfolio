@@ -220,7 +220,7 @@ nav ul li a:hover::after {
 
 /* Hero Section */
 .hero {
-    padding: auto 0px;
+    /* padding: auto 0px; */
     height: calc(100vh + 76.06px);
     display: flex;
     align-items: center;
@@ -1501,6 +1501,8 @@ footer {
     }
 
     body {
-        width: fit-content;
+        width: min-content;
+        /* overflow-x: hidden;
+        zoom: 0.76; */
     }
 }
